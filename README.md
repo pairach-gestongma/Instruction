@@ -1,6 +1,6 @@
 # Instruction
 
-Maven
+# Maven
 You need to add this line into your settings.xml (or uncomment if it's already there).
 
 <localRepository>C:\Users\me\.m2</localRepository>
