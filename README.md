@@ -39,3 +39,10 @@ Edited the answer to add the steps in the answer itself instead of the link to a
 
 cr.https://stackoverflow.com/questions/27012722/get-oracle-java-1-8-in-windows-without-installing-it
 
+## Git
+1. git clone https://github.com/pairach-gestongma/Instruction.git or
+  git clone https://Pairach.G@gitlab.com/PairachG/ABBYYWeb.git
+
+## Svn
+1. svn --version
+2. 
